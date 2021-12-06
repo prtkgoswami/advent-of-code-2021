@@ -3,26 +3,33 @@
 This repository holds my Solutions to the Advent Of Code 2021
 
 ## Instructions
+
 To Compile
+
 ```
 g++ <CPP Filename>
 ```
+
 To run on Linux
+
 ```
 ./a.out
 ```
+
 To run on Windows
+
 ```
 ./a.exe
 ```
 
 ## Solutions
+
 - [x] [Day 1](./Day_1)
 - [x] [Day 2](./Day_2)
 - [x] [Day 3](./Day_3)
 - [x] [Day 4](./Day_4)
 - [x] [Day 5](./Day_5)
-- [ ] Day 6
+- [x] [Day 6](./Day_6)
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
