@@ -13,7 +13,7 @@ This repository holds my Solutions to the Advent Of Code 2021
 - [x] [Day 7](./Day_7)
 - [x] [Day 8](./Day_8)
 - [x] [Day 9](./Day_9)
-- [ ] Day 10
+- [x] [Day 10](./Day_10)
 - [ ] Day 11
 - [ ] Day 12
 - [ ] Day 13
